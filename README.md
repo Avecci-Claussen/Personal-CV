@@ -35,7 +35,7 @@ The Lonely Bit
 - Built non-custodial Bitcoin-native tools on Fractal Bitcoin (minting, trading, staking, mining pools, and payment rails).
 - Designed and shipped systems that process real transactions without custody.
 - Owned architecture, implementation, and ongoing development of the full stack.
-- Fractal Bitcoin grantee. Worked closely with the UniSat team on Fractal Bitcoin infrastructure and tooling.
+- Fractal Bitcoin grantee. Worked closely with UniSat Wallet team on Fractal Bitcoin infrastructure and tooling.
 
 ### IT Support / Freelance
 
@@ -51,7 +51,7 @@ The Lonely Bit
 
 ### Open-Source & Independent Work
 
-- Bitcoin protocol and tooling contributions (Efficient and innovative tooling around BRC20s, Runes, and other metaprotocols,  AI Payment railway, Taproot/DLCs and Multi-sig sytem for Cross chain bridging & Lending, Meta-protocol custom Indexing).
+- Bitcoin protocol and tooling contributions (Efficient and innovative tooling around BRC20s, Runes, and other metaprotocols, AI Payment railway, Taproot/DLCs and Multi-sig sytem for Cross chain bridging & Lending, Meta-protocol custom Indexing).
 - Security review and hardening work on Bitcoin-related codebases and supporting open-source work.
 
 ## Skills
