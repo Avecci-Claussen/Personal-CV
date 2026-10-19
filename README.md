@@ -9,7 +9,8 @@ Location : Spain / Remote
 
 Open to dev/engineering, security, and consulting work around Bitcoin and Web3 tech.
 
-[GitHub](https://github.com/Avecci-Claussen) · [X](https://x.com/Avecci_Claussen)
+[GitHub](https://github.com/Avecci-Claussen) · [X](https://x.com/Avecci_Claussen) · [Email](mmslonely01@gmail.com)
+
 
 ## Summary
 
