@@ -5,7 +5,7 @@ Status : Looking for work.
 # Mouad Sabor
 
 Bitcoin Infrastructure Engineer | Security & Systems  
-Location : Spain  
+Location : Spain / Remote
 
 Open to dev/engineering, security, and consulting work around Bitcoin and Web3 tech.
 
