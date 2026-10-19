@@ -1,12 +1,13 @@
 # Personal-CV
-My personal CV. Open for work !
+Status : Looking for work.
 
 
 # Mouad Sabor
 
 Bitcoin Infrastructure Engineer | Security & Systems  
-Spain  
-Open to dev/engineering, security, and consulting work
+Location : Spain  
+
+Open to dev/engineering, security, and consulting work around Bitcoin and Web3 tech.
 
 [GitHub](https://github.com/Avecci-Claussen) · [X](https://x.com/Avecci_Claussen)
 
@@ -35,13 +36,13 @@ The Lonely Bit
 - Owned architecture, implementation, and ongoing development of the full stack.
 - Fractal Bitcoin grantee. Worked closely with the UniSat team on Fractal Bitcoin infrastructure and tooling.
 
-### IT Support
+### IT Support / Freelance
 
 - Provided technical support and troubleshooting for users and systems.
 - Handled hardware, software, and network-related issues.
 - Documented problems and resolved tickets.
 
-### IT Helpdesk
+### IT Helpdesk - Oinvest
 
 - Responded to user requests and provided first-line technical assistance.
 - Diagnosed and resolved common IT issues.
