@@ -46,13 +46,13 @@ The Lonely Bit
 ### IT Helpdesk - Oinvest
 
 - Responded to user requests and provided first-line technical assistance.
-- Diagnosed and resolved common IT issues.
+- Diagnosed and resolved common IT issues (In Office and Remote).
 - Escalated complex problems when needed.
 
 ### Open-Source & Independent Work
 
-- Bitcoin protocol and tooling contributions (Taproot/DLCs, payments, FIPs, inscriptions, security hardening).
-- Security review and hardening work on Bitcoin-related codebases.
+- Bitcoin protocol and tooling contributions (Efficient and innovative tooling around BRC20s, Runes, and other metaprotocols,  AI Payment railway, Taproot/DLCs and Multi-sig sytem for Cross chain bridging & Lending, Meta-protocol custom Indexing).
+- Security review and hardening work on Bitcoin-related codebases and supporting open-source work.
 
 ## Skills
 
